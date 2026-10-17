@@ -10,3 +10,6 @@
 
 ## Kesan Pesan Cluster [Nomor Cluster] Sejauh Ini 
 [Seru, asik, dan kompak. Kakak fasilitatornya sangat helpful dan supportif.] 
+
+## Harapan Kuliah
+[Harapanku selama kuliah adalah bisa mengembangkan kemampuan programming, memperluas relasi, aktif mengikuti kompetisi dan organisasi, serta memperoleh pengalaman dan skill yang relevan dengan karier kedepannya.]
